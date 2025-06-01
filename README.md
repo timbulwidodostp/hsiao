@@ -1,6 +1,8 @@
 # hsiao
 Hsiao homogeneity (poolability) test Use hsiao (poobly) With (In) R Software
 
+https://www.youtube.com/watch?v=z5jHS2H79IQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
